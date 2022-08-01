@@ -1,12 +1,7 @@
 <h1 align="center">⭑ 🔮 The Safe Haven: Project 🔮 ⭑</h1>
 <h3 align="center">"Welcome, one and all... To Slaevylen, the heart of Ephenois!"</h3>
 <p align="center">— Rosalyn "Rose" Belladonna</p>
-<p align="center"><b>Welcome to Rosalyn's Safe Haven!</b></p>
-<p align="center">
-  <a href="https://discord.gg/bSRbUVaSnj">
-    <img alt="Discord server" src="https://discord.com/api/guilds/990482955728191538/widget.png?style=shield">
-  </a>
-</p>
+<h3 align="center"><b>Welcome to Rosalyn's Safe Haven!</b></h3>
 
 This is a mass project that focuses on Rosalyn and what her world is about, and is connected to the server run by u/Mystique_Silv!
 
@@ -29,12 +24,14 @@ This is a mass project that focuses on Rosalyn and what her world is about, and 
 
 ## 🌙 ⭑ Credits
 
-  * ![discord](.github/icons/discord.svg) ᴛʜᴇ ᴘʀɪᴇsᴛᴇss#0752 / Silvery/Rosalyn
-  ![reddit](.github/icons/reddit.svg) [u/Mystique_Silv](https://www.reddit.com/user/Mystique-Silv)
+  * ![discord icon (tiny)](https://user-images.githubusercontent.com/110370998/182188932-301a8e26-0054-41d0-83bb-ca018a0b2ea6.png) ᴛʜᴇ ᴘʀɪᴇsᴛᴇss#0752 / Silvery/Rosalyn
+  ![reddit icon (tiny)](https://user-images.githubusercontent.com/110370998/182188912-c33755b5-7bee-41b9-9d0d-de1720ed60ef.png) [u/Mystique_Silv](https://www.reddit.com/user/Mystique-Silv)
   — the madlad who thought of this whole thing, repo maintainer and creator of the project
 
 ## 💖 ⭑ Join in the server!
 
-If you'd like to see more, click [here](https://discord.gg/bSRbUVaSnj)!
+If you'd like to see more of what I do and get updates, click [here](https://discord.gg/bSRbUVaSnj)!
 
-![Discord server invitation](https://discord.com/api/guilds/990482955728191538/widget.png?style=banner3)
+I'm always up and willing to accept any new guests. Feel free to hop in and enjoy the ride!
+
+![join the server github page](https://user-images.githubusercontent.com/110370998/182189291-95e016ef-4854-4370-bdad-4df976f5cc38.png)
