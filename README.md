@@ -1,4 +1,4 @@
-<h1 align="center">⭑ 💎🔮 The Safe Haven: Project ⚗️✨ ⭑</h1>
+<h1 align="center">⭑ 🔮 The Safe Haven: Project 🔮 ⭑</h1>
 <h3 align="center">"Welcome, one and all... To Slaevylen, the heart of Ephenois!"</h3>
 <p align="center">— Rosalyn "Rose" Belladonna</p>
 <p align="center"><b>Welcome to Rosalyn's Safe Haven!</b></p>
