@@ -37,4 +37,4 @@ This is a mass project that focuses on Rosalyn and what her world is about, and 
 
 If you'd like to see more, click [here](https://discord.gg/bSRbUVaSnj)!
 
-![Discord server invitation]()
+![Discord server invitation](https://discord.com/api/guilds/990482955728191538/widget.png?style=banner3)
